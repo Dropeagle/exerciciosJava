@@ -19,7 +19,7 @@ public class Exercicio03 {
 			  soma = 0;
 }
 	         
-	  }for(i=0;i<10;++i) {
+	  }for(i = 0;  i< 10; ++i) {
 	      if(jogadas[i] > media)	    	   	
 	          ++soma;
 
