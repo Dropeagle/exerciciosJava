@@ -8,7 +8,7 @@ public class Ex01Main {
 		newClient.setAge(19);
 		newClient.setCollor("Red");
 		
-		System.out.println("Nome: " + newClient.getName() + " // Idade: " + newClient.getAge()
-		+ " // Usuário: " + newClient.getUser() + " // Cor: " + newClient.getCollor());
+		System.out.println("Nome: " + newClient.getName() + " // Idade: " + newClient.getAge() + " // Usuário: " 
+		+ newClient.getUser() + " // Cor: " + newClient.getCollor());
 	}
 }
