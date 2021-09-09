@@ -1,4 +1,4 @@
-package vetoresMatriz;
+package src.vetoresMatriz;
 
 import java.util.Random;
 
