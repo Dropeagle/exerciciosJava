@@ -8,4 +8,7 @@ public class Ex01ClassePreguica extends Ex01ClasseAnimal {
 	public void issueSound() {
 		System.out.println("U………UM");
 	}
+	public void run() {
+		
+	}
 }
