@@ -1,10 +1,8 @@
 package herancaEtc;
 
-public class Ex01ClasseAnimal {
+public abstract class Ex01ClasseAnimal implements Ex01InterfaceAnimal {
 	private String name = "";
 	private int age = 0;
-	
-	public void issueSound() {}
 	
 	public String getName() {
 		return name;
